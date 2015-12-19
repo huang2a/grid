@@ -1,0 +1,26 @@
+.u-whitespace {
+  padding-left: 15px;
+  padding-right: 15px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box; }
+
+.u-whitespace-left {
+  padding-left: 15px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box; }
+
+.u-whitespace-right {
+  padding-right: 15px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box; }
+
+@media (max-width: 320px) {
+  .u-whitespace {
+    padding-left: 10px;
+    padding-right: 10px; }
+
+  .u-whitespace-left {
+    padding-left: 10px; }
+
+  .u-whitespace-right {
+    padding-right: 10px; } }

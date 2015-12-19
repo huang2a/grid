@@ -1,0 +1,64 @@
+@charset "UTF-8";
+a {
+  color: #00a5e0; }
+
+em {
+  color: #ff8444; }
+
+::-webkit-input-placeholder {
+  color: #bbb; }
+
+/**
+ * 文字
+ */
+h1 {
+  font-size: 18px; }
+
+h2 {
+  font-size: 17px; }
+
+h3, h4 {
+  font-size: 16px; }
+
+h5, .u-txt-sub {
+  font-size: 14px; }
+
+h6, .u-txt-tips {
+  font-size: 12px; }
+
+.u-txt-default {
+  color: #000; }
+
+.u-txt-white {
+  color: white; }
+
+.u-txt-info {
+  color: #777; }
+
+.u-txt-muted {
+  color: #bbb; }
+
+.u-txt-warning, .u-txt-red {
+  color: #ff4222; }
+
+.u-txt-feeds {
+  color: #314c83; }
+
+/* 同em */
+.u-txt-highlight {
+  color: #ff8444; }
+
+.u-txt-justify {
+  text-align: justify; }
+
+.u-txt-justify-one {
+  text-align: justify;
+  overflow: hidden;
+  height: 24px; }
+
+.u-txt-justify-one:after {
+  display: inline-block;
+  content: '';
+  overflow: hidden;
+  width: 100%;
+  height: 0; }
